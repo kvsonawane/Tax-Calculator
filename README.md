@@ -18,13 +18,16 @@ Utilizing Bootstrap, the website is responsive across various devices, ensuring 
 JavaScript is incorporated for interactive features, enhancing user engagement and functionality.
 
 Technologies Used:
-HTML:
+1. HTML:
 The foundation of the website provides structure and content.
-CSS:
+
+2. CSS:
 Style sheets are used to enhance the visual appeal and layout of the website.
-Bootstrap:
+
+3. Bootstrap:
 The framework is utilized for responsive design and pre-designed components.
-JavaScript:
+
+4. JavaScript:
 The programming language is used to create interactive elements and improve user interaction.
 
 Conclusion:
