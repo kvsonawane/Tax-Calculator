@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tax Calculator</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center mb-5">Tax Calculator</h1>
+
+        <form id="tax-form">
+            <div class="form-group">
+                <label for="gross-income">Gross Annual Income</label>
+                <input type="number" class="form-control" id="gross-income" placeholder="Enter gross annual income">
+                <div class="invalid-feedback">
+                    Please enter a valid gross annual income.
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="extra-income">Extra Income</label>
+                <input type="number" class="form-control" id="extra-income" placeholder="Enter extra income">
+                <div class="invalid-feedback">
+                    Please enter a valid extra income.
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="deductions">Deductions</label>
+                <input type="number" class="form-control" id="deductions" placeholder="Enter deductions">
+                <div class="invalid-feedback">
+                    Please enter a valid deduction amount.
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="age">Age</label>
+                <select class="form-control" id="age">
+                    <option value="0">Select age range</option>
+                    <option value="1"><40</option>
+                    <option value="2">≥ 40 & < 60</option>
+                    <option value="3">≥ 60</option>
+                </select>
+                <div class="invalid-feedback">
+                    Please select an age range.
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Calculate Tax</button>
+        </form>
+    </div>
+
+    <div class="modal fade" id="result-modal" tabindex="-1" role="dialog" aria-labelledby="result-modal-label" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="result-modal-label">Tax Calculation Result</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+
+                <div class="modal-body">
+                    <p id="result-text"></p>
+                </div>
+
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
