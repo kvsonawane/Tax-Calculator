@@ -35,15 +35,17 @@ The Tax Calculator Local Website combines HTML, CSS, Bootstrap, and JavaScript t
 
 Results:
 
-![Screenshot (1272)](https://github.com/kvsonawane/Tax-Calculator/assets/102866274/6169142f-188e-4203-a93f-accf7595df76)
-![Screenshot (1271)](https://github.com/kvsonawane/Tax-Calculator/assets/102866274/7d70c47d-e00f-45fb-b210-42d04bbf467d)
-![Screenshot (1270)](https://github.com/kvsonawane/Tax-Calculator/assets/102866274/37130f86-9ce1-4712-af39-f4897dee422b)
-![Screenshot (1269)](https://github.com/kvsonawane/Tax-Calculator/assets/102866274/0203b517-e287-45ca-b3ed-70fba1519bd1)
-![Screenshot (1268)](https://github.com/kvsonawane/Tax-Calculator/assets/102866274/5c08c83e-45d5-4eee-8dce-d8e8818cfd31)
-![Screenshot (1267)](https://github.com/kvsonawane/Tax-Calculator/assets/102866274/eba717a1-3605-4781-ac13-6cf0b5e371b2)
-![Screenshot (1266)](https://github.com/kvsonawane/Tax-Calculator/assets/102866274/cc38e7d1-6a6a-4a8e-928c-aee0135df52a)
-![Screenshot (1265)](https://github.com/kvsonawane/Tax-Calculator/assets/102866274/7b4ce711-2284-4b53-9d19-ae34d1017027)
-![Screenshot (1264)](https://github.com/kvsonawane/Tax-Calculator/assets/102866274/93e7d035-9943-479b-9a0d-d9aa335398e7)
-![Screenshot (1263)](https://github.com/kvsonawane/Tax-Calculator/assets/102866274/d50ed1dc-d1a4-47e4-8c86-2a134f3aac6c)
+![Screenshot (1263)](https://github.com/kvsonawane/Tax-Calculator/assets/102866274/1211de2b-a42f-424b-a7d1-7dcfc9a606c1)
+![Screenshot (1264)](https://github.com/kvsonawane/Tax-Calculator/assets/102866274/5ca07c6b-6565-4d5d-931d-19eccf720b7f)
+![Screenshot (1265)](https://github.com/kvsonawane/Tax-Calculator/assets/102866274/86e30ea2-f6aa-4c76-b31d-b2921d9c11c3)
+![Screenshot (1266)](https://github.com/kvsonawane/Tax-Calculator/assets/102866274/051d5efb-900d-4f47-b045-96dd526883a1)
+![Screenshot (1267)](https://github.com/kvsonawane/Tax-Calculator/assets/102866274/d7f961f6-7ba7-4d76-9089-9290024400bc)
+![Screenshot (1268)](https://github.com/kvsonawane/Tax-Calculator/assets/102866274/9bc4e6f4-ff39-4ada-bef3-7348bedb80c8)
+![Screenshot (1269)](https://github.com/kvsonawane/Tax-Calculator/assets/102866274/9a25329b-f615-4bc1-af66-0b6715383abc)
+![Screenshot (1270)](https://github.com/kvsonawane/Tax-Calculator/assets/102866274/a7719efd-7d6d-4bd3-ad33-133ccd871eab)
+![Screenshot (1271)](https://github.com/kvsonawane/Tax-Calculator/assets/102866274/442a8a5e-329a-41aa-9dab-63e6b8de48df)
+![Screenshot (1272)](https://github.com/kvsonawane/Tax-Calculator/assets/102866274/5e2568a8-53cc-49cd-ab69-1cc8de9dc160)
+
+
 
 
